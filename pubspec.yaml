@@ -11,8 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_fonts:
   fluttertoast: ^8.0.9
+  google_fonts: 2.2.0
   uni_links: ^0.5.1
 
 dev_dependencies:
